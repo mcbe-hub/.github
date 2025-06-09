@@ -1,0 +1,2 @@
+# MCBEHUB
+We make servers!
